@@ -581,19 +581,4 @@ a.botonGetStarted:hover {
 
 }
 
-.container_map{
-    width: 100%;
-    margin: 15 Auto 15 auto;
-  }
-  
-  #map_container{
-    position: relative;
-  }
-  #map{
-      height: 350px;
-      overflow: hidden;
-      padding-bottom: 22.25%;
-      padding-top: 30px;
-      position: relative;
-  }
 
